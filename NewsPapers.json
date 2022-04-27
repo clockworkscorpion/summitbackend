@@ -1,0 +1,685 @@
+{
+	"africanews": {
+		"rss": "https://www.africanews.com/feed/rss",
+		"exclude": [
+			"Please select your experience",
+			"Copy/paste the script below",
+			"\\n              By Africanews and AFP\\n          ",
+			"\\n              By Africanews \\n          ",
+			"\n                                    OTHER WIDGETS\n                                    ",
+			"                                      OTHER WIDGETS                                      ",
+			"          OTHER WIDGETS        ",
+			"\\n\\nOTHER WIDGETS\\n\\n\\n",
+			"\n\n                                    OTHER WIDGETS\n                                    ",
+			"\n\n                                    OTHER WIDGETS\n                                    \n\n",
+			"Additional sources • News Agencies",
+			"with AFP",
+			"with AP",
+			"Additional sources • AFP"
+		],
+		"source_en": "Africa News",
+		"source_ar": "نيوز افريقيا",
+		"category": "F",
+		"language": "EN"
+	},
+	"alarabiya": {
+		"rss": "https://www.alarabiya.net/.mrss/en.xml",
+		"exclude": [
+			"Read the latest updates in our dedicated coronavirus section.",
+			"For all the latest headlines follow our Google News channel online or via the app.",
+			"With Reuters.",
+			"For more coronavirus news, visit our dedicated page. "
+		],
+		"source_en": "Al Arabiya",
+		"source_ar": "العربية",
+		"category": "G",
+		"language": "EN"
+	},
+	"arabianbusiness": {
+		"rss": "https://www.arabianbusiness.com/feed/gcc/uae/feed.xml",
+		"exclude": [
+			"default",
+			"Font Size",
+			" -  Aa\\t + ",
+			"Â© 2020 ITP Media Group. All Rights Reserved",
+			"More from ITP Media Group"
+		],
+		"source_en": "Arabian Business",
+		"source_ar": "الأعمال العربية",
+		"start": "1",
+		"category": "B",
+		"language": "EN"
+	},
+	"arabianbusiness2": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:arabianbusiness.com&ceid=US:en&hl=en-US&gl=US",
+		"exclude": [
+			"default",
+			"Font Size",
+			" -  Aa\\t + ",
+			"Â© 2020 ITP Media Group. All Rights Reserved",
+			"More from ITP Media Group"
+		],
+		"source_en": "Arabian Business",
+		"source_ar": "الأعمال العربية",
+		"start": "1",
+		"category": "B",
+		"language": "EN"
+	},
+	"bbc": {
+		"rss": "http://feeds.bbci.co.uk/news/front_page/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"By Jonathan Amos",
+			"Daily news briefing direct to your inbox",
+			"Latest news, video and analysis",
+			"How to get into cricket - the thrill of the big hit, the rush of taking the catch, the skill of bowling. It's time to get into cricket.",
+			"Get latest scores and headlines sent straight to your phone, sign-up to our newsletter and learn where to find us on online.",
+			"Analysis and opinion from the BBC's cricket correspondent.",
+			"NB Fixtures and start times are subject to change. The BBC is not responsible for any changes that may be made",
+			"Get latest scores and headlines sent straight to your phone, sign-up to our newsletter and learn where to find us on online.",
+			"The latest rumours and stories from around the world of football.",
+			"Analysis and opinion from our chief football writer.",
+			"How to get into football - the most popular sport in the world, with clubs and facilities throughout the UK.",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking."
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "U",
+		"language": "EN"
+	},
+	"bbcarts": {
+		"rss": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking."
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "E",
+		"language": "EN"
+	},
+	"bbccricket": {
+		"rss": "http://feeds.bbci.co.uk/sport/cricket/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Latest news, video and analysis",
+			"How to get into cricket - the thrill of the big hit, the rush of taking the catch, the skill of bowling. It's time to get into cricket.",
+			"Get latest scores and headlines sent straight to your phone, sign-up to our newsletter and learn where to find us on online.",
+			"Analysis and opinion from the BBC's cricket correspondent.",
+			"NB Fixtures and start times are subject to change. The BBC is not responsible for any changes that may be made"
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "K",
+		"language": "EN"
+	},
+	"bbcfootball": {
+		"rss": "http://feeds.bbci.co.uk/sport/football/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Latest news, video and analysis",
+			"How to get into football - the most popular sport in the world, with clubs and facilities throughout the UK.",
+			"Analysis and opinion from our chief football writer.",
+			"The latest rumours and stories from around the world of football.",
+			"Get latest scores and headlines sent straight to your phone, sign-up to our newsletter and learn where to find us on online."
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "FB",
+		"language": "EN"
+	},
+	"bbcgolf": {
+		"rss": "http://feeds.bbci.co.uk/sport/golf/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Latest news, video and analysis",
+			"Eddie Hearn welcomes the boxing legend to his podcast",
+			"Analysis and opinion from the BBC's golf correspondent.",
+			"Get the latest golf headlines sent straight to your phone, sign-up to our newsletter and learn where to find us on online.",
+			"From hitting a few balls on the range or a quick nine holes, to the full 18 and tournaments - how to get into golf."
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "S",
+		"language": "EN"
+	},
+	"bbchealth": {
+		"rss": "http://feeds.bbci.co.uk/news/health/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Read more from Reality Check",
+			"Send us your questions",
+			"Follow us on Twitter"
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "H",
+		"language": "EN"
+	},
+	"bbcmotorsport": {
+		"rss": "http://feeds.bbci.co.uk/sport/motorsport/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Latest news, video and analysis",
+			"Visit the Elite League's official website"
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "S",
+		"language": "EN"
+	},
+	"bbctennis": {
+		"rss": "http://feeds.bbci.co.uk/sport/tennis/rss.xml?edition=us",
+		"exclude": [
+			"Follow us on Facebook, or on Twitter @BBCNewsEnts.",
+			"If you have a story suggestion email entertainment.news@bbc.co.uk.",
+			"Sign up for our newsletter",
+			"Daily news briefing direct to your inbox",
+			"Â© 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+			"Latest news, video and analysis",
+			"Listen to the latest Ouch podcast"
+		],
+		"source_en": "BBC News",
+		"source_ar": "بي بي سي نيوز",
+		"category": "S",
+		"language": "EN"
+	},
+	"caixin": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:caixinglobal.com&ceid=US:en&hl=en-US&gl=US",
+		"exclude": [
+			" Read more  ",
+			"Download our app to receive breaking news alerts and read the news on the go.",
+			"Products & Services",
+			"About Us",
+			"Terms of Use",
+			"Media Partners",
+			"Meet 5 of the best startups selected to represent China at the largest technology event in Asia",
+			"Copyright © 2019 Caixin Global Limited. All Rights Reserved.",
+			"Contact Caixin Global Intelligence",
+			"News Services",
+			"\\nHome >\\n",
+			"CX Tech is Caixin Global's real-time tech news portal, featuring 24-hour news, short-form analysis, and roundups from business and tech media in China.",
+			"What’s trending?",
+			"What’s the story?",
+			"What are people saying online?",
+			"Support quality journalism in China. Subscribe to Caixin Global starting at $0.99.          ",
+			"Support quality journalism in China. Subscribe to Caixin Global starting at $0.99.",
+			"Quick Takes are condensed versions of China-related stories for fast news you can use.",
+			"Quick Takes are condensed versions of China-related stories for fast news you can use. To read the full story in Chinese, click here."
+		],
+		"source_en": "Caixin",
+		"source_ar": "كايكسين",
+		"end": "5",
+		"category": "O",
+		"language": "EN"
+	},
+	"dawn": {
+		"rss": "https://www.dawn.com/feeds/home",
+		"exclude": [
+			"default",
+			" Compunode.com Pvt. Ltd. (www.compunode.com).Designed for Dawn.",
+			"Copyright © 2020, Dawn",
+			"Copyright © 2021, Dawn",
+			"Scribe Publishing Platform"
+		],
+		"source_en": "Dawn News",
+		"source_ar": "دون نيوز",
+		"category": "P",
+		"language": "EN"
+	},
+	"dw": {
+		"rss": "https://rss.dw.com/rdf/rss-en-top",
+		"exclude": [
+			" Send  Facebook   Twitter   reddit   EMail   Facebook Messenger Web   Whatsapp Web   Telegram   linkedin  ",
+			"wmr/aw (AP, dpa, AFP, Reuters)",
+			"\\n    ",
+			"\\xa0",
+			"jsi/msh\\xa0(AFP, Reuters)\\n    ",
+			"mvb/msh (Reuters, AFP, dpa)",
+			"\\n© 2020 Deutsche Welle |\\nPrivacy Policy |\\nLegal notice |\\nContact\\n| Mobile version\\n",
+			"We use cookies to improve our service for you. You can find more information in our data protection declaration.",
+			"Mobile version",
+			" Send  Facebook   Twitter   google+   Whatsapp   Tumblr   linkedin   stumble   Digg   reddit   Newsvine  ",
+			"Contact",
+			"Legal notice",
+			"tg/aw\\xa0(dpa, AP, Reuters)",
+			"Got an opinion about the stories making headlines? Send us a text at +49-160-9575 9510. International SMS charges apply. Please make sure to include your name and your country. We will sample your texts in our show.\\n\\xa0 ",
+			"Privacy Policy",
+			"\\n© 2020 Deutsche Welle |\\nPrivacy Policy |\\nLegal notice |\\nContact\\n| Mobile version\\n",
+			"© 2020 Deutsche Welle |",
+			"\\n    ",
+			"tg/aw (dpa, AFP, AP, Reuters)",
+			"\\n    lc/rt (dpa)",
+			"\\n    ', '\\xa0",
+			"This article was translated from German.",
+			"This article has been adapted from German.",
+			"Got an opinion about the stories making headlines? Send us a text at +49-160-9575 9510. International SMS charges apply. Please make sure to include your name and your country. We will sample your texts in our show.\\n\\xa0 "
+		],
+		"source_en": "Deutsche Welle",
+		"source_ar": "الموجة الألمانية",
+		"category": "U",
+		"language": "EN",
+		"start": "1"
+	},
+	"dxbmo": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:mediaoffice.ae&ceid=US:en&hl=en-US&gl=US",
+		"exclude": [
+			"One Central, Dubai World Trade Center, \r\nThe Offices2, level 7",
+			"© 2020 GDMO ALL RIGHTS RESERVED.",
+			" \r     For an optimal experience please rotate your device to portrait mode\r   ",
+			"\\n\\r\\n    For an optimal experience please rotate your device to portrait mode\\r\\n  ",
+			"\\n\\r\\n    For an optimal experience please rotate your device to portrait mode\\r\\n  "
+		],
+		"source_en": "Dubai Media Office",
+		"source_ar": "مكتب دبي الاعلامي",
+		"category": "N",
+		"language": "EN"
+	},
+	"engadget": {
+		"rss": "https://www.engadget.com/rss.xml",
+		"exclude": [
+			"default"
+		],
+		"source_en": "Engadget",
+		"source_ar": "ينجادجيت",
+		"category": "T",
+		"language": "EN"
+	},
+	"gulfnews": {
+		"rss": "https://gulfnews.com/rss/?generatorName=mrss&categories=UAE,Education,Crime,Government,Health,Weather,Transport,Science,Environment",
+		"exclude": [
+			"\\n              Get Breaking News Alerts From Gulf News\\n            ",
+			"\\nBy clicking below to sign up, you're agreeing to our\\nTerms of Use\\nand\\nPrivacy Policy\\n",
+			"               Get Breaking News Alerts From Gulf News             ",
+			"We’ll send you latest news updates through the day. You can manage them any time by clicking on the notification icon.",
+			"Dear Reader,",
+			"This section is about Living in UAE and essential information you cannot live without.",
+			"Register to read and get full access to gulfnews.com",
+			"\nBy clicking below to sign up, you're agreeing to our Terms of Use and Privacy Policy\n",
+			"Forgot password",
+			"\n              Get Breaking News Alerts From Gulf News\\n            ",
+			"\\nBy clicking below to sign up, you're agreeing to our\\nTerms of Use\\nand\\nPrivacy Policy\\n",
+			"\\n              Get Breaking News Alerts From Gulf News\\n            ",
+			"\\nBy clicking below to sign up, you're agreeing to our\\nTerms of Use\\nand\\nPrivacy Policy\\n"
+		],
+		"source_en": "Gulf News",
+		"source_ar": "جولف نيوز",
+		"start": "1",
+		"category": "N",
+		"language": "EN"
+	},
+	"hindu": {
+		"rss": "https://www.thehindu.com/news/national/feeder/default.rss",
+		"exclude": [
+			"\nStart your 14 days free trial\nSign Up",
+			"Sign up for a 30 day free trial.",
+			"You can support quality journalism by turning off ad blocker or purchase a subscription for unlimited access to The Hindu.",
+			"\\n‘Won’t rush even if it is available soon’\\n",
+			"\\n© THG PUBLISHING PVT LTD.\\n",
+			"Suresh Nambath",
+			"The Hindu has always stood for journalism that is in the public interest. At this difficult time, it becomes even more important that we have access to information that has a bearing on our health and well-being, our lives, and livelihoods. As a subscriber, you are not only a beneficiary of our work but also its enabler.",
+			"Already have an account? Sign In ",
+			"\nSubscribe to The Hindu now and get unlimited access.\n",
+			" Already have an account ? Sign in\\n",
+			"Start your 14 days free trial. Sign Up",
+			"Please enter a valid email address.",
+			"We also reiterate here the promise that our team of reporters, copy editors, fact-checkers, designers, and photographers will deliver quality journalism that stays away from vested interest and political propaganda.",
+			"Your support for our journalism is invaluable. It’s a support for truth and fairness in journalism. It has helped us keep apace with events and happenings.",
+			"Thank you!",
+			"Dear subscriber,",
+			"We have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and livelihoods, during these difficult times. To enable wide dissemination of news that is in public interest, we have increased the number of articles that can be read free, and extended free trial periods. However, we have a request for those who can afford to subscribe: please do. As we fight disinformation and misinformation, and keep apace with the happenings, we need to commit greater resources to news gathering operations. We promise to deliver quality journalism that stays away from vested interest and political propaganda.",
+			"Dear reader,",
+			"You can support quality journalism by turning off ad blocker or purchase a subscription for unlimited access to The Hindu.",
+			"Start your 14 days free trial. ",
+			" Already have an account ? \n",
+			" To get full access, please subscribe. ",
+			"You have reached your limit for free articles this month."
+		],
+		"source_en": "The Hindu",
+		"source_ar": "الهندو",
+		"start": "1",
+		"end": "1",
+		"category": "I",
+		"language": "EN"
+	},
+	"indianexpress": {
+		"rss": "https://indianexpress.com/feed/",
+		"exclude": [
+			"default"
+		],
+		"source_en": "Indian Express",
+		"source_ar": "اكسبريس الهندي",
+		"category": "I",
+		"language": "EN",
+		"start":"1"
+	},
+	"inquirer": {
+		"rss": "http://www.inquirer.net/fullfeed",
+		"exclude": [
+			"default",
+			"We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.",
+			"Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.",
+			"RELATED STORIES:\\xa0",
+			"\\xa0\\nADVERTISEMENT\\n\\n\\n\\n\\n\\n\\n",
+			"Luis Manzano and Jessy Mendiola",
+			"\\xa0",
+			"\\xa0\\xa0",
+			"\\xa0\\xa0 \\xa0 ",
+			"\\xa0\\nADVERTISEMENT\\n \\n\\n"
+		],
+		"source_en": "Inquirer",
+		"source_ar": "إنقويرير",
+		"category": "L",
+		"language": "EN"
+	},
+	"khaleejtimes": {
+		"rss": "http://khaleejtimes.com/rss.xml",
+		"exclude": [
+			"(Reuters)",
+			"(Reuters file)",
+			"news@khaleejtimes.com",
+			"READ MORE",
+			"What's brewing in news? Join our Morning Chat",
+			"All new KT app is available for download:",
+			"Get the latest news around the world in your inbox, so you dont miss out on the action.",
+			"(Agencies file)"
+		],
+		"source_en": "Khaleej Times",
+		"source_ar": "خليج تايمز",
+		"category": "N",
+		"language": "EN",
+		"end": "10"
+	},
+	"manorama": {
+		"rss": "https://www.onmanorama.com/news/kerala.rss.html",
+		"exclude": [
+			"PTI",
+			"(PTI)",
+			"\\n\\t\\t\\t\\tÂ© COPYRIGHT 2020 MANORAMA ONLINE.\\nALL RIGHTS RESERVED.\\n\\n",
+			"Try Again !",
+			"Email sent successfully",
+			"\nManorama Online, Malayala Manorama, P.B No.26, Kottayam 686 001, Kerala, India.\n",
+			"Manorama Online, Malayala Manorama, P.B No.26, Kottayam 686 001, Kerala, India.",
+			"\n\t\t\t\tÂ© COPYRIGHT 2020 MANORAMA ONLINE.\nALL RIGHTS RESERVED.\n\n\n\n",
+			"\n\t\t\t\t\tMANORAMA APP \nGo live with Manorama Online App, the number \none Malayalam News site on our \nmobiles and tablets.\n",
+			"Email ID:",
+			"User Name:",
+			"Subscribe for:",
+			"Please choose an option"
+		],
+		"source_en": "Manorama",
+		"source_ar": "مانوراما",
+		"category": "I",
+		"language": "EN"
+	},
+	"menabytes": {
+		"rss": "https://www.menabytes.com/feed/",
+		"exclude": [
+			"Your email address will not be published. Required fields are marked *",
+			"Name *",
+			"Email *",
+			"Website ",
+			" Save my name, email, and website in this browser for the next time I comment.",
+			" Notify me of follow-up comments by email.",
+			" Notify me of new posts by email.",
+			"MENAbytes covers tech and digital media stories from Middle East North Africa",
+			"We are trying to bring you all the latest happenings from startups to influencers, everything in tech and digital media from the region.",
+			"Copyright © 2017 MENABytes"
+		],
+		"source_en": "MenaBytes",
+		"source_ar": "مينابايتس",
+		"category": "R",
+		"language": "EN"
+	},
+	"newsintl": {
+		"rss": "https://www.thenews.com.pk/rss/1/1",
+		"exclude": [
+			"default",
+			"tap to bring up your browser menu and select 'Add to homescreen' to pin the The News web app "
+		],
+		"source_en": "The News International",
+		"source_ar": "نيوز إنتيرناشونال",
+		"category": "P",
+		"language": "EN"
+	},
+	"nytimes": {
+		"rss": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+		"exclude": [
+			"Advertisement",
+			"Supported by"
+		],
+		"source_en": "New York Times",
+		"source_ar": "نيويورك تايمز",
+		"category": "A",
+		"language": "EN"
+	},
+	"reuters1": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US",
+		"exclude": [
+			"Discover Thomson Reuters",
+			"By Reuters Staff",
+			"All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.",
+			"Our Standards: The Thomson Reuters Trust Principles.",
+			"By FIELD LEVEL MEDIA",
+			"--Field Level Media"
+		],
+		"source_en": "Reuters",
+		"source_ar": "رويترز",
+		"category": "A",
+		"language": "EN"
+	},
+	"reuters2": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=GB:en&hl=en-GB&gl=GB",
+		"exclude": [
+			"Discover Thomson Reuters",
+			"By Reuters Staff",
+			"All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.",
+			"Our Standards: The Thomson Reuters Trust Principles.",
+			"By FIELD LEVEL MEDIA",
+			"--Field Level Media"
+		],
+		"source_en": "Reuters",
+		"source_ar": "رويترز",
+		"category": "U",
+		"language": "EN"
+	},
+	"techcrunch": {
+		"rss": "https://techcrunch.com/feed/",
+		"exclude": [
+			"default"
+		],
+		"source_en": "TechCrunch",
+		"source_ar": "تك كرانش",
+		"category": "T",
+		"language": "EN"
+	},
+	"theguardian": {
+		"rss": "https://www.theguardian.com/world/rss",
+		"exclude": [
+			"default",
+			"Staff and agencies",
+			"With Reuters",
+			"Reuters contributed reporting",
+			"With Associated Press and Reuters",
+			"With Associated Press"
+		],
+		"source_en": "The Guardian",
+		"source_ar": "الجارديان",
+		"start": "1",
+		"category": "U",
+		"language": "EN"
+	},
+	"thenational": {
+		"rss": "https://www.thenationalnews.com/cmlink/customized-app-top-stories-1.853164",
+		"exclude": [
+			"default"
+		],
+		"source_en": "The National News",
+		"source_ar": "ناشونال نيوز",
+		"category": "N",
+		"language": "EN"
+	},
+	"thetimes": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:thetimes.co.uk&ceid=GB:en&hl=en-GB&gl=GB",
+		"exclude": [
+			"default"
+		],
+		"source_en": "The Times UK",
+		"source_ar": "تايمز UK",
+		"category": "U",
+		"language": "EN"
+	},
+	"wam": {
+		"rss": "http://wam.ae/en/rss/emirates",
+		"exclude": [
+			"default",
+			"\\xa0"
+		],
+		"source_en": "WAM",
+		"source_ar": "وكالة أنباء الامارات",
+		"start": "1",
+		"category": "N",
+		"language": "EN"
+	},
+	"washingtonpost": {
+		"rss": "http://feeds.washingtonpost.com/rss/world",
+		"exclude": [
+			"___",
+			"By signing up you agree to our Terms of Use and Privacy Policy",
+			"The most important news stories of the day, curated by Post editors and delivered every morning.",
+			"Have you tested positive for covid-19? Share your experience.",
+			"How to help: Your community | Seniors | Restaurants | Keep at-risk people in mind",
+			"What you need to know:  What you need to know about the vaccines | Coronavirus etiquette | Hand sanitizer recall | Your life at home | Personal finance guide | Make your own fabric mask | Vaccine tracker | Follow all of our coronavirus coverage and sign up for our free newsletter.",
+			"Coronavirus maps: Cases and deaths in the U.S. | Cases and deaths worldwide",
+			"The latest: Live updates on coronavirus",
+			"Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+		],
+		"source_en": "Washington Post",
+		"source_ar": "واشنطن بوست",
+		"category": "A",
+		"language": "EN"
+	},
+	"wsjmarkets": {
+		"rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+		"exclude": [
+			"WSJ Membership",
+			"Customer Service",
+			"Tools & Features",
+			"Ads",
+			"More",
+			"Dow Jones Products",
+			"Enter News, Quotes, Companies or Videos",
+			"Copyright © 2020 Dow Jones & Company, Inc. All Rights Reserved",
+			"Copyright © 2021 Dow Jones & Company, Inc. All Rights Reserved",
+			"Please note: The Wall Street Journal News Department was not involved in the creation of the content above.",
+			"This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit https://www.djreprints.com.",
+			"An M&A integration can include a transformation that happens simultaneously with the transaction. Companies that transform while transacting can redefine their business and operating models through M&A while driving revenue growth and sustainable margin improvement.",
+			"CFO Insights and Analysis from Deloitte",
+			"Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+			"Copyright ©2021 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+		],
+		"source_en": "Wall Street Journal",
+		"source_ar": "مجلة وول ستريت",
+		"category": "B",
+		"language": "EN"
+	},
+	"wsjus": {
+		"rss": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+		"exclude": [
+			"WSJ Membership",
+			"Customer Service",
+			"Tools & Features",
+			"Ads",
+			"More",
+			"Dow Jones Products",
+			"Enter News, Quotes, Companies or Videos",
+			"Copyright © 2020 Dow Jones & Company, Inc. All Rights Reserved",
+			"Copyright © 2021 Dow Jones & Company, Inc. All Rights Reserved",
+			"Please note: The Wall Street Journal News Department was not involved in the creation of the content above.",
+			"This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit https://www.djreprints.com.",
+			"An M&A integration can include a transformation that happens simultaneously with the transaction. Companies that transform while transacting can redefine their business and operating models through M&A while driving revenue growth and sustainable margin improvement.",
+			"CFO Insights and Analysis from Deloitte",
+			"Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+			"Copyright ©2021 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+		],
+		"source_en": "Wall Street Journal",
+		"source_ar": "مجلة وول ستريت",
+		"category": "B",
+		"language": "EN"
+	},
+	"wsjworld": {
+		"rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+		"exclude": [
+			"WSJ Membership",
+			"Customer Service",
+			"Tools & Features",
+			"Ads",
+			"More",
+			"Dow Jones Products",
+			"Enter News, Quotes, Companies or Videos",
+			"Copyright © 2020 Dow Jones & Company, Inc. All Rights Reserved",
+			"Copyright © 2021 Dow Jones & Company, Inc. All Rights Reserved",
+			"This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit https://www.djreprints.com.",
+			"Please note: The Wall Street Journal News Department was not involved in the creation of the content above.",
+			"An M&A integration can include a transformation that happens simultaneously with the transaction. Companies that transform while transacting can redefine their business and operating models through M&A while driving revenue growth and sustainable margin improvement.",
+			"CFO Insights and Analysis from Deloitte",
+			"Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+			"Copyright ©2021 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+		],
+		"source_en": "Wall Street Journal",
+		"source_ar": "مجلة وول ستريت",
+		"category": "B",
+		"language": "EN"
+	},
+	"zawya": {
+		"rss": "https://news.google.com/rss/search?q=when:24h+allinurl:zawya.com&ceid=US:en&hl=en-US",
+		"exclude": [
+			"default",
+			"Quickly uncover hidden opportunities with comprehensive data and content.",
+			"Access the most comprehensive database of companies and officers in the Middle East and North Africa, covering all major sectors and industries, from Refinitiv.",
+			"Screen, analyze and compare projects in the Middle East and North Africa across Infrastructure, Real Estate, Industrial and Energy sectors with Refinitiv’s Eikon.",
+			"© Copyright Emirates News Agency (WAM) 2020.",
+			"\u00a9 Copyright 2020 The Saudi Gazette. All Rights Reserved. Provided by SyndiGate Media Inc (Syndigate.info).",
+			"\u00a9 Copyright 2020 The Saudi Gazette.",
+			"All Rights Reserved.",
+			"Provided by SyndiGate Media Inc (Syndigate.info).",
+			"Disclaimer: The content of this article is syndicated or provided to this website from an external third party provider. We are not responsible for, and do not control, such external websites, entities, applications or media publishers. The body of the text is provided on an “as is” and “as available” basis and has not been edited in any way. Neither we nor our affiliates guarantee the accuracy of or endorse the views or opinions expressed in this article.\\xa0Read our full disclaimer policy here.",
+			"Have news to share? Email us at editorial.zawya@refinitiv.com, or send us your company press releases to pressrelease.zawya@refinitiv.com",
+			"This website uses cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.",
+			"Disclaimer: The contents of this press release was provided from an external third party provider. This website is not responsible for, and does not control, such external content. This content is provided on an “as is” and “as available” basis and has not been edited in any way. Neither this website nor our affiliates guarantee the accuracy of or endorse the views or opinions expressed in this press release",
+			"The press release is provided for informational purposes only. The content does not provide tax, legal or investment advice or opinion regarding the suitability, value or profitability of any particular security, portfolio or investment strategy. Neither this website nor our affiliates shall be liable for any errors or inaccuracies in the content, or for any actions taken by you in reliance thereon. You expressly agree that your use of the information within this article is at your sole risk.",
+			"To the fullest extent permitted by applicable law, this website, its parent company, its subsidiaries, its affiliates and the respective shareholders, directors, officers, employees, agents, advertisers, content providers and licensors will not be liable (jointly or severally) to you for any direct, indirect, consequential, special, incidental, punitive or exemplary damages, including without limitation, lost profits, lost savings and lost revenues, whether in negligence, tort, contract or any other theory of liability, even if the parties have been advised of the possibility or could have foreseen any such damages.",
+			"Disclaimer: This article is provided for informational purposes only. The content does not provide tax, legal or investment advice or opinion regarding the suitability, value or profitability of any particular security, portfolio or investment strategy.\\xa0Read our full disclaimer policy here."
+		],
+		"source_en": "Zawya",
+		"source_ar": "زاوية",
+		"start": "2",
+		"category": "M",
+		"language": "EN"
+	}
+}
